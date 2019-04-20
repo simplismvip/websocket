@@ -1,2 +1,7 @@
 # websocket
-基于Tornado的websockt服务器端，
+基于Tornado的websockt服务器端代码。可直接使用Nginx不熟到服务端使用。
+
+### 主要功能：
+
+提供发起，加入群组和消息转发等群聊功能，下一步打算加入数据库和文件上传下载。
+
