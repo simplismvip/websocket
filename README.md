@@ -1,5 +1,5 @@
 # websocket
-基于Tornado的websockt服务器端代码。可直接使用Nginx不熟到服务端使用。
+基于Tornado的websockt聊天服务器端代码。可直接使用Nginx不熟到服务端使用。
 
 ### 主要功能：
 
